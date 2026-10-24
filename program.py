@@ -1,3 +1,4 @@
-a = int(input("Enter first integer: "))
-b = int(input("Enter second integer: "))
-print(f"You entered: {a} and {b}")
+a = int(input("Введите первое целое число: "))
+b = int(input("Введите второе целое число: "))
+result = a + b
+print(f"Сумма чисел {a} и {b} равна {result}")
